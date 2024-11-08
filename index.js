@@ -60,7 +60,7 @@ async function main() {
     let csvContent = 'Rank TIOBE, Rank Crossover, Rank PYPL\n'
 
     for(let i = 0; i < 10; i++){
-        csvContent += `${dataTiobe[i]},${dataCrossover[i]},${dataPYPL[i]}\n`
+        csvContent += `${i}.${dataTiobe[i]},${i}.${dataCrossover[i]},${i}.${dataPYPL[i]}\n`
     }
 
     fs.writeFileSync('rankingLenguajes.csv', csvContent)
