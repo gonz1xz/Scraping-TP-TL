@@ -35,3 +35,6 @@ Para ejecutar este proyecto, sigue estos pasos:
 
 ## Salida
 Este script generará un archivo denominado `rankingLenguajes.csv`, el cual puede abrirse como una hoja de cálculo para facilitar su visualización y análisis. El archivo incluirá en su encabezado el nombre de la fuente de cada dato, y cada columna contendrá la posición del lenguaje en el ranking junto a su nombre correspondiente.
+
+## Conclusión
+Se observa que Python ocupa el primer puesto en todos los rankings, lo que lo posiciona como el lenguaje más utilizado y demandado en el mercado laboral. En los siguientes puestos, en el ranking TIOBE, se encuentra C++ en segundo lugar, mientras que en el ranking PYPL, Java ocupa dicha posición. Por otro lado, según el informe de Crossover, el segundo lenguaje más demandado en el mercado laboral es JavaScript, seguido por Java. Finalmente, dentro del top 5 de los rankings de lenguajes más buscados, destacan C, C++ y C#, aunque en el análisis de Crossover únicamente aparece C#.
